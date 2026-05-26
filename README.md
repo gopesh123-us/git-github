@@ -5,3 +5,4 @@ List of important files
 3. sample-web-app-xml.xml -- sample web application XML configuration
 4. sample_dispatcher-servlet.xml -- Spring MVC dispatcher servlet configuration
 5. sublime-text-2.xml -- Sublime Text 2 color theme configuration
+6. application.properties -- Spring Boot application.properties sample settings for mysql server
